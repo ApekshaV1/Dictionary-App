@@ -1,0 +1,1 @@
+his is a Dictionary App built using HTML, CSS, and JavaScript. The app allows users to search for word definitions, synonyms, and example sentences. It interacts with a dictionary API to fetch the necessary data and displays it in a clean and responsive user interface.
